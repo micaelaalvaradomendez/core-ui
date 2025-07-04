@@ -1,5 +1,5 @@
 {
-  "name": "@juzgado/core-ui",
+  "name": "@micaelaalvaradomendez/core-ui",
   "version": "1.0.0",
   "description": "CoreUI de prueba",
   "main": "index.js",
@@ -21,11 +21,11 @@
   },
   "repository": {                             
     "type": "git",
-    "url": "git+https://github.com/juzgado/core-ui.git"
+    "url": "git+https://github.com/micaelaalvaradomendez/core-ui.git"
   },
   "bugs": {                                   
-    "url": "https://github.com/juzgado/core-ui/issues"
+    "url": "https://github.com/micaelaalvaradomendez/core-ui/issues"
   },
-  "homepage": "https://github.com/juzgado/core-ui#readme"
+  "homepage": "https://github.com/micaelaalvaradomendez/core-ui#readme"
 }
 
