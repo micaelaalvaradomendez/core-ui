@@ -1,6 +1,6 @@
 {
   "name": "@micaelaalvaradomendez/core-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CoreUI de prueba",
   "main": "index.js",
   "svelte": "index.js",
@@ -16,16 +16,15 @@
   "author": "Mica-Juzgado",
   "license": "MIT",
   "type": "module",
-   "publishConfig": {                          
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": {                             
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/micaelaalvaradomendez/core-ui.git"
   },
-  "bugs": {                                   
+  "bugs": {
     "url": "https://github.com/micaelaalvaradomendez/core-ui/issues"
   },
   "homepage": "https://github.com/micaelaalvaradomendez/core-ui#readme"
 }
-
