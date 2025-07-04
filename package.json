@@ -1,0 +1,31 @@
+{
+  "name": "@juzgado/core-ui",
+  "version": "1.0.0",
+  "description": "CoreUI de prueba",
+  "main": "index.js",
+  "svelte": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svelte",
+    "ui",
+    "components",
+    "core"
+  ],
+  "author": "Mica-Juzgado",
+  "license": "MIT",
+  "type": "module",
+   "publishConfig": {                          
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {                             
+    "type": "git",
+    "url": "git+https://github.com/juzgado/core-ui.git"
+  },
+  "bugs": {                                   
+    "url": "https://github.com/juzgado/core-ui/issues"
+  },
+  "homepage": "https://github.com/juzgado/core-ui#readme"
+}
+}
