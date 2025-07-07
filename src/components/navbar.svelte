@@ -3,16 +3,10 @@
     export let navbarOptions = [];     // [{ label: 'Inicio', href: '/' }, ...]
     export let notifications = [];
 
-    import NavbarLogo from './NavbarLogo.svelte';    
-    import NavbarDrawer from './NavbarDrawer.svelte';
-
 </script>
 
-<nav class="navbar" class:scrolled={isScrolled}>
+<nav class="navbar">
   <div class="navbar-container">
-    <NavbarDrawer menuItems={navbarOptions} />
-    <NavbarLogo />
-    
     <div class="navbar-spacer"></div>
     
     <div class="navbar-options">
